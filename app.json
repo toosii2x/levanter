@@ -1,5 +1,7 @@
-{
-  "name": "levanter@5.2.3",
+"scripts":{
+  "start":
+"node app.js"
+}"name": "levanter@5.2.3",
   "description": "",
   "keywords": ["noedjs"],
   "success_url": "/",
